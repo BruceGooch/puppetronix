@@ -1,0 +1,44 @@
+#summary Required Functionality Improvements
+
+= Functionality =
+
+== General ==
+
+  # cut track item
+  # copy track item
+  # paste track item
+  # delete track item
+  # undo (atleast 1 level)
+  # ability to edit charactor
+  # set servo ranges
+  # set servo rest position
+  # add/remove tracks
+  # nice GUI for assigning servos
+
+== Graph View ==
+
+  # record input
+  # graph should always have left/right points tied to the 0 and max positions
+  # label track items
+  # right edge line of view...
+
+== Audio ==
+
+  # audio analysis with low pass filtering
+  # audio file length in min/sec instead of just sec
+
+== Playback ==
+
+  # drag the playback bar with the mouse
+  # pause
+  # zoom bar
+  # stop when end is reached
+  # change duration of show
+  # additive playback of layered tracks
+
+== Appearance ==
+
+  # Nice Icons for:
+    * zoom in/out
+    * play/pause/stop
+    * New Track item
